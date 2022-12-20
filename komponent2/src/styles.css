@@ -1,0 +1,39 @@
+.container {
+  width: 60%;
+  margin: 0 auto;
+  border: 10px black solid;
+  padding: 20px;
+}
+
+.container1 {
+  width: 50%;
+  margin: auto;
+  margin-bottom: 5px;
+  border: 10px black solid;
+  background-color: rgb(37, 178, 221);
+  padding: 20px;
+}
+.container2 {
+  width: 60%;
+  margin: auto;
+  margin-bottom: 5px;
+  border: 10px black solid;
+  background-color: rgb(221, 65, 37);
+  padding: 20px;
+}
+.container3 {
+  width: 70%;
+  margin: auto;
+  margin-bottom: 5px;
+  border: 10px black solid;
+  background-color: rgb(37, 221, 52);
+  padding: 20px;
+}
+.container4 {
+  width: 80%;
+  margin: auto;
+  margin-bottom: 5px;
+  border: 10px black solid;
+  background-color: rgb(218, 221, 37);
+  padding: 20px;
+}
