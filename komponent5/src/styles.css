@@ -1,0 +1,34 @@
+.container{
+    width: 300px;
+
+}
+label {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    font-size: 20px;
+    margin-bottom: 6px;
+  }
+  
+  h1{
+    text-align: center;
+  }
+  input{
+    padding: 5px;
+    border-radius: 5px;
+    background-color: bisque;
+  }
+
+button{
+    padding: 10px;
+    border-radius: 10px;
+}
+
+  button:hover{
+    background-color: tan;
+  }
+
+.checkbox{
+    display: inline-block;
+}
+  
