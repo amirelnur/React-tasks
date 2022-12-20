@@ -1,0 +1,32 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  body {
+    display: flex;
+    margin: 10px;
+    align-items: center;
+    justify-content: center;
+  }
+  form {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+  }
+
+  label{
+    display: block;
+    margin-top: 10px;
+  }
+  
+  input{
+    background-color: aquamarine;
+  }
+
+  button{
+    margin-top: 10px;
+  }
+
+  button:hover{
+    background-color: aqua;
+  }
